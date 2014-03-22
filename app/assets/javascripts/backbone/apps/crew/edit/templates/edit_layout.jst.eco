@@ -1,0 +1,11 @@
+<div id="edit-crew-layout">
+	<div id="title-region"></div>
+	<section>
+		<div class="row">
+			<div class="large-12 columns">
+				<h3>Edit</h3>
+				<div id="form-region"></div>
+			</div>
+		</div>
+	</section>
+</div>

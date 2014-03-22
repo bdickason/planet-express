@@ -1,0 +1,1 @@
+Episode07::Application.config.marionette_app_name = 'PlanetExpress'
